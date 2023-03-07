@@ -7,7 +7,11 @@ heloo class[
 
  //task-101 changes
 m1(){
+<<<<<<< Updated upstream
      .......
+=======
+
+>>>>>>> Stashed changes
   }
 
 ]
