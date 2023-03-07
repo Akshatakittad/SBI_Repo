@@ -5,5 +5,10 @@ hello
 inta=10
 heloo class[
 
+ //task-101 changes
+m1(){
+     .......
+  }
+
 ]
 
